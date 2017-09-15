@@ -9,11 +9,13 @@ The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://s
 * What are the **learning goals**?
   * To practice data wrangling using [pandas](http://pandas.pydata.org/)
   * To construct data visualizations using [matplotlib](http://matplotlib.org/) and [bokeh](https://bokeh.pydata.org/en/latest/)
+  * To build models and make predictions using [scikit-learn](http://scikit-learn.org/)
   * To submit models and solutions to [Kaggle competitions](https://www.kaggle.com/competitions)
   * To meet and collaborate with other students and faculty interested in scientific computing
 * What **software tools** are we going to use?
   * [Kaggle](https://www.kaggle.com/): datasets, competitions, and community
   * [bokeh](https://bokeh.pydata.org/en/latest/): interactive data visualizations
+  * [scikit-learn](http://scikit-learn.org/): machine learning in Python
   * [SciPy Stack](http://scipy.org/): scientific computing with [NumPy](http://www.numpy.org/), [SciPy](http://scipy.org/), [matplotlib](http://matplotlib.org/) and [pandas](http://pandas.pydata.org/)
   * [Python](https://www.python.org/) and [Jupyter Notebooks](http://jupyter.org/)
   * [ubc.syzygy.ca](https://ubc.syzygy.ca/): Jupyter notebooks hosted by [PIMS](http://pims.math.ca/)
