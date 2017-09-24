@@ -35,3 +35,15 @@ The UBC Scientific Software Seminar is inspired by [Software Carpentry](http://s
 #### SCHEDULE
 
 Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to receive weekly updates about the seminar.
+
+* Week 1 - Friday September 29 - 1-2pm - DLAM Learning Lab
+  * Introduction to Kaggle: Data science competitions, datasets, kernels and community
+* Week 2 - Friday October 6 - 1-2pm - DLAM Learning Lab
+* Week 3 - Friday October 13 - 1-2pm - DLAM Learning Lab
+* Week 4 - Friday October 20 - 1-2pm - **TBD**
+* Week 5 - Friday October 27 - 1-2pm - DLAM Learning Lab
+* Week 6 - Friday November 3 - 1-2pm - DLAM Learning Lab
+* Week 7 - Friday November 10 - 1-2pm - DLAM Learning Lab
+* Week 8 - Friday November 17 - 1-2pm - DLAM Learning Lab
+* Week 9 - Friday November 24 - 1-2pm - DLAM Learning Lab
+* Week 10 - Friday December 1 - 1-2pm - DLAM Learning Lab
