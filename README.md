@@ -42,9 +42,11 @@ Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to r
   * Getting Started
     * Titanic: Machine Learning from Disaster
     * Make a submission using a Decision Tree Classifier
-* Week 2 - Friday October 6 - 1-2pm - DLAM Learning Lab
-  * Feature engineering
-  * Decision trees and random forests
+* Week 2 - Friday October 6 - 1-2pm - DLAM Learning Lab - [[Notes](notes-2017-10-06/notes-2017-10-06.ipynb)]
+  * Feature engineering on Titanic dataset
+    * Titles and decks
+    * Filling missing data
+  * Random forest classifiers
 * Week 3 - Friday October 13 - 1-2pm - DLAM Learning Lab
   * Introduction to XGBoost
 * Week 4 - Friday October 20 - 1-2pm - **TBD**
