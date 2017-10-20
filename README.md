@@ -47,9 +47,12 @@ Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to r
     * Titles and decks
     * Filling missing data
   * Random forest classifiers
-* Week 3 - Friday October 13 - 1-2pm - DLAM Learning Lab
-  * Introduction to XGBoost
-* Week 4 - Friday October 20 - 1-2pm - **TBD**
+* Week 3 - Friday October 13 - 1-2pm - DLAM Learning Lab - [[Notes](notes-2017-10-13/notes-2017-10-13-ideas.ipynb)]
+  * Tunig parameters for random forest classifier
+  * Our best attempt
+* Week 4 - Friday October 20 - 1-2pm - DLAM Learning Lab
+  * NYC Taxi Trip Duration
+    * Outliers and clusters
 * Week 5 - Friday October 27 - 1-2pm - DLAM Learning Lab
 * Week 6 - Friday November 3 - 1-2pm - DLAM Learning Lab
 * Week 7 - Friday November 10 - 1-2pm - DLAM Learning Lab
