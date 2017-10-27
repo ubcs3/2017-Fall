@@ -50,7 +50,7 @@ Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to r
 * Week 3 - Friday October 13 - 1-2pm - DLAM Learning Lab - [[Notes](notes-2017-10-13/notes-2017-10-13-ideas.ipynb)]
   * Tunig parameters for random forest classifier
   * Our best attempt
-* Week 4 - Friday October 20 - 1-2pm - DLAM Learning Lab
+* Week 4 - Friday October 20 - 1-2pm - DLAM Learning Lab - [[Notes](notes-2017-10-20/notes-2017-10-20.ipynb)]
   * NYC Taxi Trip Duration
     * Outliers and clusters
 * Week 5 - Friday October 27 - 1-2pm - DLAM Learning Lab
