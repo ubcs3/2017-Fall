@@ -53,13 +53,13 @@ Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to r
 * Week 4 - Friday October 20 - 1-2pm - DLAM Learning Lab - [[Notes](notes-2017-10-20/notes-2017-10-20.ipynb)]
   * NYC Taxi Trip Duration
     * Outliers and clusters
-* Week 5 - Friday October 27 - 1-2pm - DLAM Learning Lab - [[Notes](notes-2017-20-27/notes-2017-10-27-ideas.ipynb)]
+* Week 5 - Friday October 27 - 1-2pm - DLAM Learning Lab - [[Notes](notes-2017-10-27/notes-2017-10-27-ideas.ipynb)]
   * NYC Taxi Trip Duration
     * Distance and spatial features for a random forest resgressor
 * Week 6 - Friday November 3 - 1-2pm - DLAM Learning Lab - [[Notes](notes-2017-11-03/notes-2017-11-03.ipynb)]
   * NYC Taxi Trip Duration
     * A random forest resgressor for every route
-* Week 7 - Friday November 10 - 1-2pm - DLAM Learning Lab
+* Week 7 - Friday November 10 - **No meeting**
 * Week 8 - Friday November 17 - 1-2pm - DLAM Learning Lab
 * Week 9 - Friday November 24 - 1-2pm - DLAM Learning Lab
 * Week 10 - Friday December 1 - 1-2pm - DLAM Learning Lab
