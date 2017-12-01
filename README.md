@@ -60,10 +60,12 @@ Please join the [mailing list](https://survey.ubc.ca/s/ubcs3-mailing-list/) to r
   * NYC Taxi Trip Duration
     * A random forest resgressor for every route
 * Week 7 - Friday November 10 - **No meeting**
-* Week 8 - Friday November 17 - 1-2pm - DLAM Learning Lab - [[Notes](notes-2017-11-17/notes-mike-2017-11-17.ipynb)]
+* Week 8 - Friday November 17 - 1-2pm - DLAM Learning Lab - [[Notes](notes-2017-11-17/notes-mike-2017-11-17.ipynb)] (presented by [@sempwn](https://github.com/sempwn))
   * West Nile Virus Prediction
     * Data exploration
-* Week 9 - Friday November 24 - 1-2pm - DLAM Learning Lab - [[Notes](notes-2017-11-24/notes-Mike-2017-11-24.ipynb)]
+* Week 9 - Friday November 24 - 1-2pm - DLAM Learning Lab - [[Notes](notes-2017-11-24/notes-Mike-2017-11-24.ipynb)] (presented by [@sempwn](https://github.com/sempwn))
   * West Nile Virus Prediction
     * Models and predictions
 * Week 10 - Friday December 1 - 1-2pm - DLAM Learning Lab
+  * Quora Question Pairs
+    * Natural language processing with [NLTK](http://www.nltk.org/)
